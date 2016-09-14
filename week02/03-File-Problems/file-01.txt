@@ -1,0 +1,2 @@
+This is some file
+And cat is printing it's contents
