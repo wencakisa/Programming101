@@ -1,0 +1,29 @@
+{
+  "people":
+    [
+      {
+        "name": "Ivo",
+        "car": "Opel",
+        "model": "Corsa",
+        "max_speed": 240
+      },
+      {
+        "name": "Rado",
+        "car": "Pegeout",
+        "model": "107",
+        "max_speed": 180
+      },
+      {
+        "name": "Slavqna",
+        "car": "Opel",
+        "model": "Meriva",
+        "max_speed": 300
+      },
+      {
+        "name": "Pavlin",
+        "car": "Audi",
+        "model": "R8",
+        "max_speed": 380
+      }
+  ]
+}
