@@ -1,0 +1,20 @@
+{
+    "Vencislav": [
+        "Martin"
+    ],
+    "Martin": [
+        "Vencislav",
+        "Tony"
+    ],
+    "Stephan": [
+        "Juliyan"
+    ],
+    "Tony": [
+        "Martin",
+        "Juliyan"
+    ],
+    "Juliyan": [
+        "Tony",
+        "Stephan"
+    ]
+}
