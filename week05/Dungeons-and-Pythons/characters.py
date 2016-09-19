@@ -72,6 +72,7 @@ class Hero:
 
                 attack_phrase = 'casts a {} for {:.2f} dmg'.format(self._spell, self._spell.damage)
                 health_loss = self._spell.damage
+                self._mana -= self._spell.mana_cost
             else:
                 return "You can't attack by {}".format(by)
 
@@ -113,4 +114,3 @@ class Enemy(Hero):
             )
 
         return 'Enemy is dead and can not attack!'
-
